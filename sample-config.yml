@@ -1,5 +1,5 @@
 rooms:
-    room_1:
+    living_room:
         table_lamp:
            energenie_plug: 1
         other_appliance:
