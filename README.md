@@ -1,6 +1,6 @@
 # Energenie Service #
 
-RESTful microservice - written in Python, on the Flask framework - and 
+RESTful microservice - written in Python, on the Flask framework - and based on [MiniGirlGeek/energenie-demo](https://github.com/MiniGirlGeek/energenie-demo).
 
 ## Starting the application ##
 
