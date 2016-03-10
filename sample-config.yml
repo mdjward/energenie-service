@@ -1,0 +1,7 @@
+rooms:
+    room_1:
+        table_lamp:
+           energenie_plug: 1
+        other_appliance:
+           energenie_plug: 4
+
